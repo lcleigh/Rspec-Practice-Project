@@ -1,2 +1,6 @@
-Hell Everyone
+Hello Everyone
+
+My name is Laura and I am learning how to set up rspec. 
+
+Have a wondeful day.
 
